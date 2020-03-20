@@ -5,8 +5,6 @@ Central Repository for all my Scripts
 
 ## Computer Scripts  
 
-***
-
 ### Get-InactiveComputers  
 
 >[Get-InactiveComputers](https://github.com/P0w3rChi3f/Get-InactiveComputers) is a script that will search Active Directory for any computers that have not been logged into for 45 days.
@@ -23,8 +21,6 @@ Central Repository for all my Scripts
 
 ## Files
 
-***
-
 ### Backup-UserFiles  
 
 >[Backup-UserFiles](https://github.com/P0w3rChi3f/Backup-UserFiles) is a script goes through your profile and looks for a default set of file extensions.  The default file extensions are: .pdf, .doc, .docx, .ppt, .pptx, .xls, .xlsx. Other file extensions can be added to the list with the -AddFileExt parameter. The extention must start with a "."(Period) and have a length of 3-5 characters long.  The files are back up to the file share in accordence with the 169CPT Draft File Share SOP.  There is not an option to change the file path at this time.  
@@ -40,8 +36,6 @@ Central Repository for all my Scripts
 ***  
 
 ## Hunt Scripts  
-
-***  
 
 ### Get-IOCs  
 
@@ -60,8 +54,6 @@ Central Repository for all my Scripts
 ***  
 
 ## Users  
-
-***  
 
 ### New-ADUsers_Loop  
 
@@ -90,8 +82,6 @@ Central Repository for all my Scripts
 ***  
 
 ## VMWare Scripts  
-
-***  
 
 ### Change-VMVLan  
 
