@@ -79,6 +79,10 @@ Central Repository for all my Scripts
 
 >[Remove-ADUser_Prompted](https://github.com/P0w3rChi3f/Remove-ADUser_Prompted) is script prompts for a uniq identifier for an Active Directory user and removes their account and their profile off of the file server.  If ran in a console, it can remove their virtual desktop out of VMWare View.  
 
+### Invoke-RandomUser  
+
+>[Invoke-RandomUser](https://github.com/P0w3rChi3f/Invoke-RandomUser) is a script that was inspired by a Red Team engagement I was on.  I wanted to see if the organization could detect if a new Domain Admin was created.  So this script helps me do that by created 1000 users and adding them to the Domain Admins Group.  
+
 ***  
 
 ## VMWare Scripts  
